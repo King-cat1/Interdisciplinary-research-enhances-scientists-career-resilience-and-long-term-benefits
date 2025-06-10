@@ -4,4 +4,6 @@ Abstract: Evaluating the long-term impact of interdisciplinary research (IDR) on
 DOI: 10.1007/s11192-025-05349-4
 
 Keywords：Interdisciplinary Research, Long-Term benefits, Mid-Career Pitfall, InTraFlow, Career Resilience
+
 ![image](https://github.com/user-attachments/assets/3c09cc84-03bc-473a-a6a3-7c5e7749f6ec)
+Fig. 1. Illustration of N-InTraFlow5
